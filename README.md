@@ -3,8 +3,8 @@
 The idea for these programs comes from implementing a Treasure Hunt
 game in a school using micro:bit boards.
 
-In this context, one student, with the board running the emisora.py
-program, guides another student who has the board with the receptora.py
+In this context, one student, with the board running the transmitter.py
+program, guides another student who has the board with the receiver.py
 program towards one or several targets.
 
 On the displays of both boards, two types of arrows are shown. Static
